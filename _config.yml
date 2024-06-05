@@ -1,9 +1,9 @@
 # Site settings
 title: Mrbother Blog
-SEOTitle: 小宸的博客 | Mrbother Blog
+SEOTitle: 陈裕的博客 | Mrbother Blog
 header-img: img/home-bg.jpg
 email: pa15986131563@163.com
-description: "这里是Mrbother的博客"
+description: "这里是CHhnyu的博客"
 keyword: "Mrbother"
 url: "https://space.bilibili.com/1915841274?spm_id_from=333.1007.0.0" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Mrbother
-zhihu_username: Mrbother
-github_username: Mrbother
-twitter_username: Mrbother
+weibo_username: CHhnyu
+zhihu_username: CHhnyu
+github_username: CHhnyu
+twitter_username: CHhnyu
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
