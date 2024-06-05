@@ -1,10 +1,10 @@
 # Site settings
-title: Mrbother Blog
-SEOTitle: 陈裕的博客 | Mrbother Blog
+title: Chhnyu Blog
+SEOTitle: 陈裕的博客 | Chhnyu Blog
 header-img: img/home-bg.jpg
 email: pa15986131563@163.com
 description: "这里是CHhnyu的博客"
-keyword: "Mrbother"
+keyword: "Chhnyu"
 url: "https://space.bilibili.com/1915841274?spm_id_from=333.1007.0.0" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
